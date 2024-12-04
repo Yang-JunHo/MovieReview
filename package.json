@@ -28,6 +28,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  
   "homepage": "https://yang-junho.github.io/MovieReview/",
   "eslintConfig": {
     "extends": [
